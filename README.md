@@ -7,4 +7,4 @@ This project is a course assignment completed by the author during his tenure as
 
 /部分周讲解资料 contains some slides for explaining daily programming tasks
 
-I am very honored to be a teaching assistant for one semester, which has allowed me to review a lot of old knowledge and hope to further improve in the future
+**I am very honored to be a teaching assistant for one semester, which has allowed me to review a lot of old knowledge and hope to further improve in the future**
